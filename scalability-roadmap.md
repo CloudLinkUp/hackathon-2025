@@ -7,7 +7,7 @@ CloudLinkUp aims to revolutionize AI training by leveraging a global network of 
 To scale CloudLinkUp from a prototype simulation to a robust, global network capable of handling diverse AI training tasks with infinite scalability, ensuring client privacy, and providing economic incentives for contributors.
 
 ## Metrics for Success
-- **Contributor Base**: Aim for 50,000 active contributors within the first year, with a focus on high-value contributors with significant resource availability.
+- **Contributor Base**: Aim for 5,000 active contributors within the first year, with a focus on high-value contributors with significant resource availability.
 - **Client Satisfaction**: Maintain a 99% task completion rate with privacy protection for clients.
 - **Network Efficiency**: Keep resource availability high to meet client demand without significant infrastructure changes.
 - **Revenue**: Grow revenue by focusing on the percentage of transactions rather than direct service provision.
