@@ -19,7 +19,7 @@ CloudLinkUp aims to revolutionize the AI compute landscape by decentralizing com
   - Clients: Aim for partnerships with at least 100 small to medium-sized enterprises (SMEs) in the first year, based on the needs expressed in tech forums and industry reports.
 
 - **Task Volume**:
-  - With the growth of AI, the number of AI tasks requiring compute is massive; for instance, AI model training jobs on platforms like Kaggle have surpassed 100,000 [[Source](https://www.kaggle.com/datasets)].
+  - The expansion of AI technologies has led to a significant increase in computational demands for AI tasks. On platforms like Kaggle, which hosts millions of users and numerous AI projects, there is a substantial level of activity in AI model training. Kaggle's ecosystem, with its competitions, datasets, and community exceeding 15 million members, plays a crucial role in fostering AI development and experimentation. [[Source](https://www.kaggle.com/datasets)].
 
 - **Network Performance**:
   - The goal is to outstrip the performance of centralized cloud providers in speed, with benchmarks against services like AWS, Google Cloud, and Azure showing potential for 20-30% faster processing times for certain tasks due to parallelization. Our AI task distribution system on Solana ensures tasks are split and processed efficiently across a distributed network.
