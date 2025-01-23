@@ -15,7 +15,7 @@ CloudLinkUp aims to revolutionize the AI compute landscape by decentralizing com
 
 ### User Metrics
 - **User Growth**:
-  - Contributors: Target to exceed the number of participants in projects like Folding@home, which at its peak had over 1 million users [[Source](https://foldingathome.org/2020/03/10/statistics-update-1-million-cpus-1-exaflop/)].
+  - Contributors: Target to surpass the participation levels of major distributed computing projects.
   - Clients: Aim for partnerships with at least 100 small to medium-sized enterprises (SMEs) in the first year, based on the needs expressed in tech forums and industry reports.
 
 - **Task Volume**:
