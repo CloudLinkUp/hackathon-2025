@@ -109,7 +109,7 @@ def main():
     # Header with logo next to the title
     col1, col2 = st.columns([1, 6])
     with col1:
-        st.image("logo.png", width=100, use_container_width=False)
+        st.image("./logo.png", width=100, use_container_width=False)
     with col2:
         st.title("Decentralized Compute Marketplace")
 
