@@ -56,7 +56,7 @@ CloudLinkUp aims to revolutionize the AI compute landscape by decentralizing com
   - By offering a low-cost entry into AI compute using Solana tokens, CloudLinkUp can empower startups and individual developers, potentially leading to innovations that might not occur under the current centralized models.
 
 - **Privacy and Security**:
-  - In light of data breaches affecting millions (e.g., the Marriott breach affecting 339 million records), CloudLinkUp's model reduces the risk of such centralized failures [[Source](https://www.cpomagazine.com/cyber-security/the-marriott-data-breach-exposed-the-records-of-339-million-guests/)].
+  - In light of data breaches affecting millions, CloudLinkUp's model reduces the risk of such centralized failures.
 
 ## Methodology
 
