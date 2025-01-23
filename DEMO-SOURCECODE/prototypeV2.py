@@ -116,7 +116,7 @@ def main():
     # Sidebar for navigation with user icon and "PrototypeUser" text
     col1, col2 = st.sidebar.columns([1, 3])
     with col1:
-        st.image("user-icon.png", width=20, use_container_width=False)
+        st.image("DEMO-SOURCECODE/user-icon.png", width=20, use_container_width=False)
     with col2:
         st.markdown("<h3 style='margin-top: 0; margin-bottom: 0;'>PrototypeUser</h3>", unsafe_allow_html=True)
     st.sidebar.title("Welcome to the Compute Market!")
@@ -144,7 +144,7 @@ def main():
                 st.session_state.clients[0].connected = True
         with col2:
             if st.session_state.clients[0].connected:
-                st.image("wallet-icon.png", width=30, use_container_width=False)
+                st.image("DEMO-SOURCECODE/wallet-icon.png", width=30, use_container_width=False)
         with col3:
             if st.session_state.clients[0].connected:
                 st.markdown("* **Wallet connected**")
@@ -223,7 +223,7 @@ def main():
                 st.session_state.contributors[0].connected = True
         with col2:
             if st.session_state.contributors[0].connected:
-                st.image("server-icon.png", width=30, use_container_width=False)
+                st.image("DEMO-SOURCECODE/server-icon.png", width=30, use_container_width=False)
         with col3:
             if st.session_state.contributors[0].connected:
                 st.markdown("* **Server connected**")
