@@ -37,13 +37,6 @@ CloudLinkUp aims to revolutionize the AI compute landscape by decentralizing com
 
 ## Qualitative Assessment
 
-### User Feedback and Case Studies
-- **Client Testimonials**:
-  - Feedback from beta users like "Company X" who reduced their model training costs by 60% while maintaining data privacy.
-
-- **Case Studies**:
-  - A detailed case study on how "Startup Y" used CloudLinkUp to train a model 30% faster than on centralized infrastructure.
-
 ### Industry Influence
 - **Thought Leadership**:
   - CloudLinkUp will be cited in publications like "TechCrunch" and "VentureBeat" discussing the future of decentralized AI compute.
