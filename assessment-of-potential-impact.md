@@ -1,4 +1,4 @@
-# Impact Assessment of CloudLinkUp
+# Potential Impact Assessment of CloudLinkUp
 
 ## Introduction
 CloudLinkUp aims to revolutionize the AI compute landscape by decentralizing compute power, making AI model training more accessible, privacy-centric, and economically viable for smaller companies while offering financial opportunities to individuals with idle computing resources. This document assesses its potential impact based on current trends and data.
