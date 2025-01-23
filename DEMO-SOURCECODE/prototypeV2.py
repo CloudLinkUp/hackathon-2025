@@ -3,7 +3,6 @@ import pandas as pd
 import time
 import random
 from datetime import datetime, timedelta
-import plotly
 import plotly.graph_objects as go
 
 # Helper Functions
