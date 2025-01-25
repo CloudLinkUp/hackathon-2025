@@ -5,7 +5,7 @@
 **Welcome to the Future of AI Training**
 
 ### Links
-- **DEMO LINK**: [cloudlinkup.ai](https://cloudlinkup.ai)  
+- **DEMO LINK**: [cloudlinkup.streamlit.app](https://cloudlinkup.streamlit.app)  
 - **X Profile**: [@CloudLinkUp](https://twitter.com/CloudLinkUp)
 
 ### About CloudLinkUp
