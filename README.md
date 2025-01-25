@@ -54,7 +54,7 @@ CloudLinkUp is more than a project; it's a movement towards a new era of AI deve
 ### Social Links  
 Click below to connect:  
 
-[![X Profile](github link)](https://twitter.com/CloudLinkUp)  
+[![X Profile](https://github.com/CloudLinkUp/hackathon-2025/blob/main/assets/X_profile_button_resized.png)](https://twitter.com/CloudLinkUp)  
 
 🔗 **Demo**: [cloudlinkup.streamlit.app](https://cloudlinkup.streamlit.app)
 
